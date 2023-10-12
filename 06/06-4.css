@@ -1,0 +1,47 @@
+body {text-align: center;}
+
+header {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 1024px;
+height: 100px;
+background: violet;
+}
+
+nav{
+line-height: 0;
+position: absolute;
+top: 100px;
+left: 0px;
+width: 1024px;
+height: 30px;
+background: grey;
+}
+
+#content-1 {
+position: absolute;
+top: 130px;
+left: 0px;
+width: 700px;
+height: 550px;
+background: skyblue;
+}
+
+#content-2 {
+position: absolute;
+top: 130px;
+left: 700px;
+width: 324px;
+height: 550px;
+background: green;
+}
+
+footer{
+position: absolute;
+top: 680px;
+left: 0px;
+width: 1024px;
+height: 88px;
+background: orange;
+}

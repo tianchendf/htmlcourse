@@ -1,0 +1,114 @@
+body {text-align: center;}
+
+header {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 1024px;
+height: 100px;
+background: violet;
+background-image:url(images/title_bg_01.jpg);
+}
+
+nav{
+line-height: 0;
+position: absolute;
+top: 100px;
+left: 0px;
+width: 1024px;
+height: 30px;
+background: grey;
+}
+
+#colmenu ul{
+ margin:0px;
+ padding:0px;
+ list-style:none;
+}
+
+#colmenu li{
+ padding:0;
+ margin: 0;
+ float:left;
+}
+
+#colmenu li a{
+ display:block;
+ border:1px solid #666;
+ background-color:#ccc;
+ padding:12px;
+ color:#114;
+ width:176px;
+ margin:1px;
+ text-align:center;
+ font-size:14px;
+}
+
+#colmenu li a : hover{
+ border:1px solid #fff;
+ background-color;26c;
+}
+
+#content-1 {
+position: absolute;
+top: 130px;
+left: 0px;
+width: 700px;
+height: 550px;
+background-image:url(images/BG_6_1.png);back-ground-repeat:repeat;}
+
+#rowmenu ul{
+ margin:0;
+ padding:0;
+ list-style:none;
+}
+
+#rowmenu li{
+ display:inline;
+ padding:0;
+ margin: 0;
+}
+
+#rowmenu li a{
+ display:block;
+ border:1px solid #666;
+ background-color:#ccc;
+ padding:3px;
+ color:#514;
+ width:250px;
+ height:20px;
+ margin:15px;
+ text-align:center;
+ font-size:16px;
+}
+
+#rowmenu li a : hover{
+ border:1px solid #fff;
+ background-color;26c;
+}
+
+#person{
+line-height:300px;
+font-family:"MS Pゴシック"
+font-size:"7";
+font-weight:bolder;
+color:blue;
+}
+
+#content-2 {
+position: absolute;
+top: 130px;
+left: 700px;
+width: 324px;
+height: 550px;
+background: green;
+}
+
+footer{
+position: absolute;
+top: 680px;
+left: 0px;
+width: 1024px;
+height: 88px;
+background: orange;
+}

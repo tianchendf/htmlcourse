@@ -1,0 +1,4 @@
+a:link {color:blue; background:white;}
+a:visited{color:violet; background:gray;}
+a:hover{color:red; background:white;}
+a:active{color:red; background:blue;}

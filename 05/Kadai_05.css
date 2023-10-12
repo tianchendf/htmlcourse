@@ -1,0 +1,6 @@
+ul{color:yellow;list-style-type:square;}
+body{background-image:url(Kadai_05.png);background-repeat:repeat;background-attachment:fixed;}
+table{border:4px #ffff00 groove;}
+caption{color:grey; font-weight:"bolder"}
+th{border:4px #ff0000 groove;height:20px;width:50px}
+td{border:4px grey groove;height:30px;width: 50px;text-align:center;}

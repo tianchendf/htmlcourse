@@ -1,0 +1,13 @@
+#vc{
+ width:240px;
+ height:20px;
+ margin:10px auto;
+ padding:10px;
+ color:red;
+ background:#cccccc;
+}
+
+.clock{
+ width:300px;
+ margin:auto;
+}

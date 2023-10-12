@@ -1,0 +1,29 @@
+#menu ul{
+ display:flex;
+ flex-direction:column;
+ margin:0;
+ padding:0;
+ list-style:none;
+}
+
+#menu li{
+ padding:0;
+ margin:0;
+}
+
+#menu li a{
+ display:block;
+ border:1px solid #666;
+ background-color:#ccc;
+ padding:3px;
+ color:#333;
+ width:100px;
+ margin:1px;
+ text-aligh:center;
+ font-size:14px;
+}
+
+#menu li a:hover{
+ border:1px solid #fff;
+ background-color:#26c;
+}

@@ -1,0 +1,11 @@
+body{background-color:skyblue;}
+
+h1{text-align:left; color: green; line-height:40px;letter-spacing:-6px;}
+h2{text-align:left; color: red; line-height:30px;letter-spacing:2px;}
+h3{color:blue;}
+p{color:black;text-indent:4em;}
+
+h1{background-color:gray; border-color:red; border-style:outset;}
+h2{background-color:white; border-color:gray; border-style:solid;}
+h3{background-color:transparent; border-color:pink; border-style:double;}
+p{background:yellow;}
